@@ -1,5 +1,7 @@
 # eth-address-icon
 
+[LIVE DEMO](http://highlinux.com/eth-address-icon/?address=0xd1498f1c4aaafcd1eaa1b6e3594a37c7fd7d0909)
+
 Generates a cool unique ethereum account address icon.
 
 ## What it is
